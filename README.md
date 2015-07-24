@@ -1,1 +1,2 @@
-# iris_extras
+# iris-extras
+A repository of extensions to Iris.
